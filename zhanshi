@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>展示页面</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #f4f4f4;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>词云图及折线图</h1>
+    <ul>
+        <li>微博话题词“年货”下的微博内容词云图</li>
+        <li>关键词为“年货”的百度指数走势折线图</li>
+        <!-- 可以根据需要添加更多li标签 -->
+    </ul>
+    <img src="result2.jpg" alt="折线图">
+    <img src="image2.jpg" alt="成语生成图2">
+</body>
+</html>
