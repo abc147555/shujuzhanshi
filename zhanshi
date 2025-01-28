@@ -37,7 +37,7 @@
         <li>关键词为“年货”的百度指数走势折线图</li>
         <!-- 可以根据需要添加更多li标签 -->
     </ul>
-    <img src="result2.jpg" alt="折线图">
-    <img src="image2.jpg" alt="成语生成图2">
+    <img src="result2.jpg" alt="词云图">
+    <img src="12.jpg" alt="折线图">
 </body>
 </html>
